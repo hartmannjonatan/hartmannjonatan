@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou estagiário web developer da empresa [Saken Web Solutions](www.saken.com.br)
      - Pretendo cursar Ciência da Computação.
-- 🌱 Eu estou estudando Symfony, NodeJS e MongoDb.
+- 🌱 Eu estou estudando Symfony, NodeJS, Cordova, MongoDb.
 - 🤔 Interessado em ajuda no backend.
 - 💬 Pergunte-me sobre php, html, css...
 - 📫 Me encontre em:
