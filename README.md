@@ -1,4 +1,4 @@
-<img src=".github/computer-illustration.png" width="300px" min-width="300px" max-width="300px" align="right">
+<img src="github/computer-illustration.png" width="300px" min-width="300px" max-width="300px" align="right">
 
 <h2>Hello World ☕</h2>
 
