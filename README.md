@@ -1,15 +1,31 @@
-### Olá, eu sou Jonatan Hartmann um Software Developer 👋 👾
+<img src=".github/computer-illustration.png" width="300px" min-width="300px" max-width="300px" align="right">
 
+<h2>Hello World ☕</h2>
 
-- 🔭 Atualmente sou estagiário web developer da empresa [Saken Web Solutions](www.saken.com.br)
-     - Pretendo cursar Ciência da Computação.
-- 🌱 Eu estou estudando Symfony, NodeJS, Cordova, MongoDb.
-- 🤔 Interessado em ajuda no backend.
-- 💬 Pergunte-me sobre php, html, css...
-- 📫 Me encontre em:
-     - ![logo-whatsapp-256 (1)](https://user-images.githubusercontent.com/89183359/151165671-f5366342-950a-4d66-9136-8d9da23573e5.png)[+5555999465308](https://api.whatsapp.com/send?phone=5555999465308&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github!)
-     - ![ícong IG (1)](https://user-images.githubusercontent.com/89183359/151165983-0c91b12c-c97b-4732-b69b-c490d82e8a45.png)[@hartmannjonatan](https://www.instagram.com/hartmannjonatan/)
-     - ![28323eba1d9f71acc3cc92f0e043fc5c-icone-de-telefone-preto-e-branco (1)](https://user-images.githubusercontent.com/89183359/151166251-3b2a761b-de53-4d5f-857f-21b6667a7ce5.png)[+5555999465308](tel:5555999465308)
+<p style="text-align: justify;">Jonatan Hartmann é um jovem desenvolvedor focado em atingir seus objetivos. Ele possui um excelente conhecimento na área de desenvolvimento de software, com habilidades em linguagens como PHP, Java, JavaScript, HTML e CSS.</p>
 
+</br>
 
-![giphy](https://user-images.githubusercontent.com/89183359/151166882-5da24857-afdc-40cb-b453-55a800520801.gif)
+<h3>Fale comigo:</h3>
+
+<div align="left">
+  <a href="https://www.instagram.com/hartmannjonatan/">
+    <img src="https://img.shields.io/badge/-Instagram-5C0BF0?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jonatan-hartmann-76b186206/">
+    <img src="https://img.shields.io/badge/-Linkedin-5C0BF0?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5555999465308&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github!">
+    <img src="https://img.shields.io/badge/-Whatsapp-5C0BF0?style=for-the-badge&logo=Whatsapp&logoColor=FFF"/>
+  </a>
+</div>
+<br>
+<h2>Estatísticas do GitHub 📊</h2>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hartmannjonatan&theme=tokyonight"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hartmannjonatan&theme=tokyonight"/></td></tr></table>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hartmannjonatan&theme=tokyonight"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hartmannjonatan&theme=tokyonight"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hartmannjonatan&theme=tokyonight"/></td></tr></table>
+    <table><tr><td>
