@@ -2,7 +2,7 @@
 
 <h2>Hello World ☕</h2>
 
-<p style="text-align: justify;">Jonatan Hartmann é um jovem desenvolvedor focado em atingir seus objetivos. Ele possui um excelente conhecimento na área de desenvolvimento de software, com habilidades em linguagens como PHP, Java, JavaScript, HTML e CSS.</p>
+<p style="text-align: justify;">Olá, me chamo Jonatan Hartmann. Sou formado em Técnico em Informática pelo IFFAR, e sou graduando em Ciência da Computação pela UFSC. Atualmente atuo como Desenvolvedor Mobile no Laboratório Bridge. Possuo interesse em: programação web, programação de dispositivos móveis, inteligência artificial, sistemas digitais... entre outros.</p>
 
 </br>
 
